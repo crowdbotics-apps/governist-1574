@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT governist_1574.wsgi:application
